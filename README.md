@@ -8,7 +8,7 @@
 DBMK-Inventory is een modern, veilig inventory systeem voor FiveM ESX Legacy.  
 Deze versie (`v1.0.0`) is gebouwd als server-authoritative core met focus op stabiliteit, anti-duplication en gebruiksvriendelijke NUI.
 
-![Police Armory Preview](https://i.imgur.com/dzg3Php.png)
+![Police Armory Preview](https://i.imgur.com/Bl210ZP.png)
 
 ### Features
 
